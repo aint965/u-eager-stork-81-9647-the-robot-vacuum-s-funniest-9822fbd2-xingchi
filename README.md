@@ -11,11 +11,12 @@
 A tiny deterministic Node program (`main.ts`, no dependencies) that writes a single
 line to `/output/entry.txt` — the excuse a robot vacuum gives for missing a spot:
 
-> My sensors classified that dust as load-bearing. I am not demolishing your floor over one crumb.
+> My cliff sensor classified the rug fringe as a cliff. I do not argue with gravity.
 
-The vacuum owns up to the miss in its own deadpan machine voice: its sensors did
-their job, the dust was officially structural, and one crumb is not worth bringing
-the house down. A machine making peace with failure, in one line.
+The vacuum owns up to the miss in its own deadpan machine voice: its cliff
+sensor did its job, the rug fringe was officially a cliff edge, and no crumb
+is worth arguing with gravity over. A machine making peace with failure, in
+one line.
 
 ## Run it
 

@@ -5,7 +5,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "My sensors classified that dust as load-bearing. I am not demolishing your floor over one crumb.";
+  "My cliff sensor classified the rug fringe as a cliff. I do not argue with gravity.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", LINE, "utf8");
